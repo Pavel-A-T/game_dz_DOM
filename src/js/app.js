@@ -1,6 +1,6 @@
 export default class App {
   constructor() {
-    this.calculateRandom = () => Math.floor(Math.random() * 15);
+    this.calculateRandom = () => Math.floor(Math.random() * 16);
   }
 
   getRandomGoblin() {
